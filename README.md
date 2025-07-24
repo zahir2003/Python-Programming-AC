@@ -1,3 +1,4 @@
+
 ---
 
 # 🐍 Python Programming AC
@@ -9,7 +10,7 @@
 
 ## 📌 **About**
 
-This repository contains my **Python Programming codes, assignments, and practice problems** for the **AC course**. It includes implementations of core programming concepts, data structures, OOP, and problem-solving exercises to strengthen my Python skills for academics, interviews, and real-world projects.
+This repository contains my **Python Programming codes, assignments, and practice problems** for the **Apna College course**. It includes implementations of core programming concepts, data structures, OOP, and problem-solving exercises to strengthen my Python skills for academics, interviews, and real-world projects.
 
 ---
 
@@ -41,10 +42,6 @@ This repository contains my **Python Programming codes, assignments, and practic
 > - Ability to implement **clean, efficient, and modular code**
 > - **Problem-solving skills** for academic excellence and interviews
 > - Commitment towards **continuous learning and practice**
-
----
-
-Here is your **professional and beautifully formatted `Project Structure` section** for your GitHub README, reflecting your **exact code structure from the image**:
 
 ---
 
@@ -95,6 +92,7 @@ Python-Programming-AC/
 ├── L8.3.py
 ├── L8.4.py
 
+````
 
 ---
 
@@ -115,8 +113,6 @@ Python-Programming-AC/
 
 ---
 
----
-
 ## 📈 **Learning Outcome**
 
 Through this repository, I have:
@@ -126,7 +122,6 @@ Through this repository, I have:
 - Applied **OOP concepts** in real code  
 - Prepared myself for upcoming **interviews and academic assessments**
 
----
 ---
 
 ## 🤝 **Connect with Me**
@@ -142,3 +137,4 @@ Through this repository, I have:
 ---
 
 ⭐ **If you find this repository useful, give it a star and check out my other projects on Machine Learning, Web Development, and Java Programming.**
+````
