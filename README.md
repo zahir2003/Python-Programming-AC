@@ -44,32 +44,57 @@ This repository contains my **Python Programming codes, assignments, and practic
 
 ---
 
+Here is your **professional and beautifully formatted `Project Structure` section** for your GitHub README, reflecting your **exact code structure from the image**:
+
+---
+
 ## 📂 **Project Structure**
 
 ```
 
 Python-Programming-AC/
 │
-├── Assignment-1/
-│   ├── Q1.py
-│   ├── Q2.py
-│   └── ...
+├── .gitignore
+├── LICENSE
+├── README.md
 │
-├── OOP-Concepts/
-│   ├── class\_inheritance.py
-│   ├── polymorphism.py
-│   └── ...
+├── demo.txt
+├── sample.txt
+├── practice.txt
+├── Practice2.txt
 │
-├── Data-Structures/
-│   ├── lists.py
-│   ├── dictionaries.py
-│   └── ...
+├── Mini Project.py
 │
-└── README.md
+├── L1.1.py
+├── L1.2.py
+├── L1.3.py
+├── L1.pracQ.py
+│
+├── L2.1.py
+├── L2.pracQ.py
+├── L2.py
+│
+├── L3.pracQ.py
+├── L3.py
+│
+├── L4.pracQ.py
+├── L4.py
+│
+├── L5.1.py
+├── L5.2.py
+├── L5.3.py
+├── L5.4.py
+│
+├── L6.1.py
+├── L6.2.py
+│
+├── L7.pracQ.py
+│
+├── L8.1.py
+├── L8.2.py
+├── L8.3.py
+├── L8.4.py
 
-````
-
-*(Actual structure may vary based on your folders)*
 
 ---
 
