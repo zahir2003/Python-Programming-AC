@@ -115,6 +115,8 @@ Python-Programming-AC/
 
 ---
 
+---
+
 ## 📈 **Learning Outcome**
 
 Through this repository, I have:
@@ -124,6 +126,7 @@ Through this repository, I have:
 - Applied **OOP concepts** in real code  
 - Prepared myself for upcoming **interviews and academic assessments**
 
+---
 ---
 
 ## 🤝 **Connect with Me**
